@@ -1,6 +1,6 @@
 public class Apelsin {
     @Override
     public String toString() {
-        return "Jag är en apelsin";
+        return "Jag är en orange apelsin";
     }
 }
